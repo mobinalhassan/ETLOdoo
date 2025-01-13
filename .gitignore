@@ -1,5 +1,4 @@
-*
-!*/
+
 !.gitignore
 !/**/.gitignore
 
@@ -20,3 +19,4 @@
 !data/*
 /src/test.py
 /src/test_2.py
+!ETL_Pipeline.py
